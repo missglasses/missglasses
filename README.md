@@ -34,9 +34,9 @@ When not coding, you'll probably find me doing one of the following:
 
 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓮𝓼 ~~ 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-plain.svg" width="40"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-plain.svg](https://cdn.freelogovectors.net/wp-content/uploads/2023/04/canva-logo-circle-freelogovectors.net_.png)" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-flash-player.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" width="40"/>
+  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg](https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png)](https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png)" width="40"/>
 </p>
 
