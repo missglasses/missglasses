@@ -8,9 +8,7 @@
 I'm interested about **front-end development**, **UI/UX design**, and exploring the creative side of 𝓽𝓮𝓬𝓱 and 𝓪𝓻𝓽 :P!  
 When not coding, you'll probably find me doing one of the following:
 
-- 📸 ᴘʜᴏᴛᴏɢʀᴀᴘʜʏ  
 - ✏️ ꜱᴋᴇᴛᴄʜɪɴɢ  
-- 💃 ᴅᴀɴᴄɪɴɢ  
 - 🎸 ᴊᴀᴍᴍɪɴɢ ᴏᴜᴛ ᴛᴏ ᴍᴜꜱɪᴄ  
 - 🍵 ꜱɪᴘᴘɪɴɢ ᴍᴀᴛᴄʜᴀ ᴀᴛ ᴀ ᴄᴀꜰᴇ  
 - 😴 ꜱʟᴇᴇᴘɪɴɢ? XD
