@@ -18,10 +18,6 @@ When not coding, you'll probably find me doing one of the following:
 ### 🚀 𝓢𝓽𝓪𝓽𝓼
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=compact&theme=light" alt="Compact Top Languages" />
-    </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=donut&theme=light" alt="Donut Top Languages" />
     </td>
