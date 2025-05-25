@@ -39,6 +39,5 @@ When not coding, you'll probably find me doing one of the following:
 
 ## 🎨 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓮𝓼 ~~
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Flash](https://img.shields.io/badge/Adobe%20Flash-F01529.svg?style=for-the-badge&logo=adobe&logoColor=white)  
-![Pixlr](https://img.shields.io/badge/Pixlr-00B2FF.svg?style=for-the-badge&logo=pixlr&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E12020.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Flash](https://img.shields.io/badge/Adobe%20Flash-F01529.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pixlr](https://img.shields.io/badge/Pixlr-00B2FF.svg?style=for-the-badge&logo=pixlr&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E12020.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
