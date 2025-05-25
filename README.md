@@ -17,11 +17,7 @@ When not coding, you'll probably find me doing one of the following:
 ---
 ### 🚀 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
-![missglasses's GitHub stats](https://github-readme-stats.vercel.app/api?username=missglasses&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=missglasses&theme=tokyonight)
 
 ---
 
