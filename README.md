@@ -18,7 +18,7 @@ When not coding, you'll probably find me doing one of the following:
 
 ### 🚀 𝓢𝓽𝓪𝓽𝓼
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=donut&theme=light&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=light&langs_count=10&include_all_commits=true)
 
 ---
 
