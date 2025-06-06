@@ -19,7 +19,8 @@ When not coding, you'll probably find me doing one of the following:
 
 <table>
     <td>
-        https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=donut&theme=light&langs_count=10&hide=css,html
+       <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=donut&theme=light&langs_count=10" /> -->
+        https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=donut&theme=light&langs_count=10
     </td>
   </tr>
 </table>
