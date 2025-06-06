@@ -18,9 +18,9 @@ When not coding, you'll probably find me doing one of the following:
 ### 🚀 𝓢𝓽𝓪𝓽𝓼
 
 <table>
+  <tr>
     <td>
-       <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=donut&theme=light&langs_count=10" /> -->
-       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&theme=algolia&layout=compact&langs_count=10&hide=css,html)
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&theme=algolia&layout=compact&langs_count=10&hide=css,html)
     </td>
   </tr>
 </table>
