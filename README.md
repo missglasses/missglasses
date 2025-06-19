@@ -20,11 +20,13 @@ When not coding, you'll probably find me doing one of the following:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=donut&theme=light&langs_count=10&hide=css" />
+      <img src="https://github-readme-stats.vercel.app/api?username=missglasses&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=ff4500&text_color=ff8c00&icon_color=ff6347&bg_color=282a36&ring_color=ff0000" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=compact&hide_border=true&title_color=ff8c00&text_color=ff4500&bg_color=282a36&langs_count=6&hide=css,scss" />
     </td>
   </tr>
 </table>
-
 ---
 
 ### 💌 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮:
