@@ -5,8 +5,7 @@
 ---
 
 ### 👩‍💻 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮:
-I'm interested about **front-end development**, **UI/UX design**, and exploring the creative side of 𝓽𝓮𝓬𝓱 and 𝓪𝓻𝓽 :P!  
-When not coding, you'll probably find me doing one of the following:
+My close friends call me Cin/Cincin/Cindyleps! I'm a BSIT student building my full-stack development skills, with a special passion for front-end work. UI/UX design fascinates me too. Recently I've started exploring cybersecurity fundamentals and am actively reviewing core concepts to strengthen my understanding :D .
 
 - 🎨 ᴍᴀᴋɪɴɢ ᴀʀᴛ
 - 📚 ʀᴇᴀᴅɪɴɢ ᴀ ʙᴏᴏᴋ
