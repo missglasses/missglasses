@@ -1,5 +1,4 @@
 ## <img src="https://img.icons8.com/fluency/48/000000/hello-kitty.png" width="30" height="30" alt="Hello Kitty"  />   нєу! 
-![Profile Views](https://komarev.com/ghpvc/?username=missglasses&style=for-the-badge&color=e25098)
 
 ### ♡₊˚ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮  ₊˚🎀 
 
