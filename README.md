@@ -31,13 +31,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=missglasses&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=e25098&text_color=333333&icon_color=e25098&bg_color=ffffff" />
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=missglasses" alt="GitHub Streak" />
+      </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=compact&hide_border=true&title_color=e25098&text_color=333333&bg_color=ffffff&langs_count=6&hide=css,scss" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=compact&hide_border=true&title_color=e25098&text_color=333333&bg_color=ffffff&langs_count=6&hide=css,scss" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 
 ### 💌 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮    ♡･ﾟ♡･ﾟ♡･ﾟ♡･ﾟ♡
