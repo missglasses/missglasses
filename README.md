@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/✏️_Illustration-FF9EB6?style=flat&logo=adobe_illustrator&logoColor=white" alt="Illustration">
 </div>
 
+#### 👩🏻‍💻 Currently Learning:
+  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 #### When not coding, you’ll probably find me:
 
