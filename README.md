@@ -32,8 +32,6 @@
   <tr>
     <td>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=compact&hide_border=true&title_color=e25098&text_color=333333&bg_color=ffffff&langs_count=6&hide=scss" alt="Top Languages" />
-
-    </td>
   </tr>
 </table>
 
