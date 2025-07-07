@@ -10,9 +10,6 @@
   <img src="https://img.shields.io/badge/✏️_Illustration-FF9EB6?style=flat&logo=adobe_illustrator&logoColor=white" alt="Illustration">
 </div>
 
-#### 👩🏻‍💻 Currently Learning:
-  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 
 #### When not coding, you’ll probably find me:
 
@@ -34,7 +31,8 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=compact&hide_border=true&title_color=e25098&text_color=333333&bg_color=ffffff&langs_count=6&hide=css,scss" alt="Top Languages" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=compact&hide_border=true&title_color=e25098&text_color=333333&bg_color=ffffff&langs_count=6&hide=scss" alt="Top Languages" />
+
     </td>
   </tr>
 </table>
