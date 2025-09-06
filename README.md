@@ -41,7 +41,7 @@
 ### 💌 𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒! ♡･ﾟ♡･ﾟ♡･ﾟ♡･ﾟ♡
 
 [![Gmail](https://img.shields.io/badge/cindylepss@gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFDBE9)](mailto:cindylepss@gmail.com)
-[![Codecademy](https://img.shields.io/badge/Codecademy_•_missglasses-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://codecademy.com/profiles/missglasses) [![DataCamp](https://img.shields.io/badge/Datacamp_•_Cindy_Lepatan-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/22103328) [![Credly](https://img.shields.io/badge/Credly_•_Cindy_Lepatan_-FF9EB6?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/cindy-lepatan/badges#credly)
+[![Codecademy](https://img.shields.io/badge/Codecademy_•_missglasses-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://codecademy.com/profiles/missglasses) [![DataCamp](https://img.shields.io/badge/DataCamp_•_Cindy_Lepatan-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/22103328) [![Credly](https://img.shields.io/badge/Credly_•_Cindy_Lepatan_-FF9EB6?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/cindy-lepatan/badges#credly)
 
 ---
 
