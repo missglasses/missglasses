@@ -1,62 +1,38 @@
-## <img src="https://img.icons8.com/fluency/48/000000/hello-kitty.png" width="30" height="30" alt="Hello Kitty"  />   нєу! 
+<div align="center">
 
-### ♡₊˚ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮  ₊˚🎀 
+## ♡₊˚ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 ₊˚🎀 
 
-#### 👩🏻‍💻 Interests:
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+#### 🌸 Interests
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/🎨_UI/UX-FFC0CB?style=flat&logo=adobexd&logoColor=white" alt="UI/UX">
   <img src="https://img.shields.io/badge/💻_Web_Dev-61DAFB?style=flat&logo=react&logoColor=white" alt="Web Dev">
-  <img src="https://img.shields.io/badge/📱_App_Dev-02569B?style=flat&logo=flutter&logoColor=white" alt="App Dev">
+  <img src="https://img.shields.io/badge/📱_Mobile_Dev-02569B?style=flat&logo=flutter&logoColor=white" alt="App Dev">
   <img src="https://img.shields.io/badge/✏️_Illustration-FF9EB6?style=flat&logo=adobe_illustrator&logoColor=white" alt="Illustration">
 </div>
 
 
-#### When not coding, you’ll probably find me:
-
-୨ৎ ᴍᴀᴋɪɴɢ ᴀʀᴛ 🎨
-
-୨ৎ ꜱɪᴘᴘɪɴɢ ᴍᴀᴛᴄʜᴀ ᴀᴛ ᴀ ᴄᴀꜰᴇ 🍵
-
-୨ৎ ᴊᴀᴍᴍɪɴɢ ᴏᴜᴛ ᴛᴏ ᴍᴜꜱɪᴄ 🎸
-
-୨ৎ ʀᴇᴀᴅɪɴɢ ᴀ ʙᴏᴏᴋ 📚
-
-୨ৎ ꜱʟᴇᴇᴘɪɴɢ ? XD 
+<br>
 
 
 
----
-### <img src="https://cdn-icons-png.flaticon.com/512/12709/12709566.png" width="28" height="28" alt="Pink bow"/> 𝓢𝓽𝓪𝓽𝓼    ♡･ﾟ♡･ﾟ♡･ﾟ♡･ﾟ♡
 
-<table>
+<table align="center">
   <tr>
-    <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=compact&hide_border=true&title_color=e25098&text_color=333333&bg_color=ffffff&langs_count=6&hide=scss" alt="Top Languages" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missglasses&layout=compact&hide_border=true&title_color=e25098&text_color=333333&bg_color=ffffff&langs_count=6&hide=scss" alt="Top Languages" />
     </td>
   </tr>
 </table>
+<br>
 
-
-
-### 💌 𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒! ♡･ﾟ♡･ﾟ♡･ﾟ♡･ﾟ♡
+#### 🌸 Other Profiles 
 
 [![Gmail](https://img.shields.io/badge/cindylepss@gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFDBE9)](mailto:cindylepss@gmail.com)
-[![Codecademy](https://img.shields.io/badge/Codecademy_•_missglasses-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://codecademy.com/profiles/missglasses) [![DataCamp](https://img.shields.io/badge/DataCamp_•_Cindy_Lepatan-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/22103328) [![Credly](https://img.shields.io/badge/Credly_•_Cindy_Lepatan_-FF9EB6?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/cindy-lepatan/badges#credly)
+[![Codecademy](https://img.shields.io/badge/Codecademy_•_missglasses-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://codecademy.com/profiles/missglasses)
+[![DataCamp](https://img.shields.io/badge/DataCamp_•_missglasses-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/missglasses)
 
----
+[![Credly](https://img.shields.io/badge/Credly_•_Cindy_Lepatan_-FF9EB6?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/cindy-lepatan/badges#credly)
+[![Kaggle](https://img.shields.io/badge/Kaggle_•_CindyLepatan-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cindylepatan)
 
-### <img src="https://cdn-icons-png.flaticon.com/512/12709/12709566.png" width="28" height="28" alt="Pink bow"/> 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴    ♡･ﾟ♡･ﾟ♡･ﾟ♡･ﾟ♡
-###### (a mix of tools I've tried and ones I've mastered)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
- ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23004997.svg?style=for-the-badge&logo=cisco&logoColor=white) ![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
----
-### <img src="https://cdn-icons-png.flaticon.com/512/12709/12709566.png" width="28" height="28" alt="Pink bow"/> 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓮𝓼    ♡･ﾟ♡･ﾟ♡･ﾟ♡･ﾟ♡ 
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Flash](https://img.shields.io/badge/Adobe%20Flash-F01529.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pixlr](https://img.shields.io/badge/Pixlr-00B2FF.svg?style=for-the-badge&logo=pixlr&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E12020.svg?style=for-the-badge&logo=autodesk&logoColor=white)
-
----
+</div>
