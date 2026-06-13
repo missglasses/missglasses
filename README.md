@@ -20,7 +20,7 @@ const missglasses: Developer = {
   interests: ["Web Development", "Mobile Development", "Data Analytics", "AI"],
   devStack: ["React", "JavaScript", "TypeScript", "Next.js"], // main stack
   daStack: ["Python", "SQL", "Excel", "Power BI"],
-  favoriteLanguages: ["Java", "Python", "C++", "C"], // learned to love C the hard way XD
+  favoriteLanguages: ["Java", "Python", "C#", "C"], // learned to love C the hard way XD
   hobbies: ["Creating Art", "Dancing", "Singing", "Coding", "Cafe Hopping ☕"],
   passion: "Building systems, analyzing data, and exploring more about tech."
 };
