@@ -71,7 +71,7 @@ const missglasses: Developer = {
 
 <h2>₊˚ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ₊˚࿔</h2>
 
-<a href="www.linkedin.com/in/cindylepatan">
+<a href="https://www.linkedin.com/in/cindy-lepatan-505839366/">
     <img width="200" alt="LinkedIn" src="https://github.com/user-attachments/assets/099ce71c-d7fe-4045-8dd0-e1eca84d2aef" />
 </a>
 
