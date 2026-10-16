@@ -15,9 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><i>“Bible verse...”</i></p>
+<p><sub>✧ FRIDAY · OCTOBER 16, 2026 ✧</sub></p>
 
-<p><b>— Verse of the Day</b></p>
+<p><i>“Jesus answered, “I am the bread of life. Whoever comes to Me will never hunger, and whoever believes in Me will never thirst.”</i></p>
+
+<p><b>— John 6:35 (BSB)</b></p>
+
+<p><a href="https://www.bible.com/bible/3034/JHN.6.35">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
