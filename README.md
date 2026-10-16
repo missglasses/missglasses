@@ -21,7 +21,6 @@
 
 <p><b>— John 6:35 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/JHN.6.35">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
