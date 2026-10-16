@@ -2,9 +2,9 @@
 name: Update Daily Bible Verse
 
 'on':
+  workflow_dispatch:
   schedule:
     - cron: '0 23 * * *'
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,6 +12,7 @@ permissions:
 jobs:
   update-verse:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
