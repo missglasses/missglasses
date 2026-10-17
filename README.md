@@ -15,12 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ FRIDAY · OCTOBER 16, 2026 ✧</sub></p>
+<p><sub>✧ SATURDAY · OCTOBER 17, 2026 ✧</sub></p>
 
-<p><i>“Jesus answered, “I am the bread of life. Whoever comes to Me will never hunger, and whoever believes in Me will never thirst.”</i></p>
+<p><i>“And we know that God works all things together for the good of those who love Him, who are called according to His purpose.”</i></p>
 
-<p><b>— John 6:35 (BSB)</b></p>
+<p><b>— Romans 8:28 (BSB)</b></p>
 
+<p><a href="https://www.bible.com/bible/3034/ROM.8.28">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
