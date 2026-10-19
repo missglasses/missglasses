@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ SUNDAY · OCTOBER 18, 2026 ✧</sub></p>
+<p><sub>✧ MONDAY · OCTOBER 19, 2026 ✧</sub></p>
 
-<p><i>“Blessed be the Lord, who daily bears our burden, the God of our salvation. Selah”</i></p>
+<p><i>“Love takes no pleasure in evil, but rejoices in the truth.”</i></p>
 
-<p><b>— Psalm 68:19 (BSB)</b></p>
+<p><b>— 1 Corinthians 13:6 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/PSA.68.19">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/1CO.13.6">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
