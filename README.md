@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ TUESDAY · OCTOBER 20, 2026 ✧</sub></p>
+<p><sub>✧ WEDNESDAY · OCTOBER 21, 2026 ✧</sub></p>
 
-<p><i>“For God is not unjust. He will not forget your work and the love you have shown for His name as you have ministered to the saints and continue to do so.”</i></p>
+<p><i>“A Psalm of David. The earth is the Lord’s, and the fullness thereof, the world and all who dwell therein.”</i></p>
 
-<p><b>— Hebrews 6:10 (BSB)</b></p>
+<p><b>— Psalm 24:1 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/HEB.6.10">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/PSA.24.1">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
