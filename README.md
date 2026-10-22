@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ WEDNESDAY · OCTOBER 21, 2026 ✧</sub></p>
+<p><sub>✧ THURSDAY · OCTOBER 22, 2026 ✧</sub></p>
 
-<p><i>“A Psalm of David. The earth is the Lord’s, and the fullness thereof, the world and all who dwell therein.”</i></p>
+<p><i>“But Ruth replied: “Do not urge me to leave you or to turn from following you. For wherever you go, I will go, and wherever you live, I will live; your people will be my people, and your God will be my God.”</i></p>
 
-<p><b>— Psalm 24:1 (BSB)</b></p>
+<p><b>— Ruth 1:16 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/PSA.24.1">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/RUT.1.16">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
