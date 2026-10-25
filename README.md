@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ SATURDAY · OCTOBER 24, 2026 ✧</sub></p>
+<p><sub>✧ SUNDAY · OCTOBER 25, 2026 ✧</sub></p>
 
-<p><i>“For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands.”</i></p>
+<p><i>“Do nothing out of selfish ambition or empty pride, but in humility consider others more important than yourselves.”</i></p>
 
-<p><b>— Psalm 19:1 (BSB)</b></p>
+<p><b>— Philippians 2:3 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/PSA.19.1">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/PHP.2.3">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
