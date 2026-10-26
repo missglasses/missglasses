@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ SUNDAY · OCTOBER 25, 2026 ✧</sub></p>
+<p><sub>✧ MONDAY · OCTOBER 26, 2026 ✧</sub></p>
 
-<p><i>“Do nothing out of selfish ambition or empty pride, but in humility consider others more important than yourselves.”</i></p>
+<p><i>“Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand.”</i></p>
 
-<p><b>— Philippians 2:3 (BSB)</b></p>
+<p><b>— Isaiah 41:10 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/PHP.2.3">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/ISA.41.10">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
