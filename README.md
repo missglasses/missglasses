@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ MONDAY · OCTOBER 26, 2026 ✧</sub></p>
+<p><sub>✧ TUESDAY · OCTOBER 27, 2026 ✧</sub></p>
 
-<p><i>“Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand.”</i></p>
+<p><i>“Blessed is the man who perseveres under trial, because when he has stood the test, he will receive the crown of life that God has promised to those who love Him.”</i></p>
 
-<p><b>— Isaiah 41:10 (BSB)</b></p>
+<p><b>— James 1:12 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/ISA.41.10">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/JAS.1.12">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
