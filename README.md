@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ TUESDAY · OCTOBER 27, 2026 ✧</sub></p>
+<p><sub>✧ WEDNESDAY · OCTOBER 28, 2026 ✧</sub></p>
 
-<p><i>“Blessed is the man who perseveres under trial, because when he has stood the test, he will receive the crown of life that God has promised to those who love Him.”</i></p>
+<p><i>“Pray in the Spirit at all times, with every kind of prayer and petition. To this end, stay alert with all perseverance in your prayers for all the saints.”</i></p>
 
-<p><b>— James 1:12 (BSB)</b></p>
+<p><b>— Ephesians 6:18 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/JAS.1.12">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/EPH.6.18">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
