@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ WEDNESDAY · OCTOBER 28, 2026 ✧</sub></p>
+<p><sub>✧ THURSDAY · OCTOBER 29, 2026 ✧</sub></p>
 
-<p><i>“Pray in the Spirit at all times, with every kind of prayer and petition. To this end, stay alert with all perseverance in your prayers for all the saints.”</i></p>
+<p><i>“He has rescued us from the dominion of darkness and brought us into the kingdom of His beloved Son,”</i></p>
 
-<p><b>— Ephesians 6:18 (BSB)</b></p>
+<p><b>— Colossians 1:13 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/EPH.6.18">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/COL.1.13">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
