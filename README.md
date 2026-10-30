@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ THURSDAY · OCTOBER 29, 2026 ✧</sub></p>
+<p><sub>✧ FRIDAY · OCTOBER 30, 2026 ✧</sub></p>
 
-<p><i>“He has rescued us from the dominion of darkness and brought us into the kingdom of His beloved Son,”</i></p>
+<p><i>“Search me, O God, and know my heart; test me and know my concerns.”</i></p>
 
-<p><b>— Colossians 1:13 (BSB)</b></p>
+<p><b>— Psalm 139:23 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/COL.1.13">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/PSA.139.23">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
