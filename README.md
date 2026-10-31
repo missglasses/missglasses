@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ FRIDAY · OCTOBER 30, 2026 ✧</sub></p>
+<p><sub>✧ SATURDAY · OCTOBER 31, 2026 ✧</sub></p>
 
-<p><i>“Search me, O God, and know my heart; test me and know my concerns.”</i></p>
+<p><i>“All Scripture is God-breathed and is useful for instruction, for conviction, for correction, and for training in righteousness, so that the man of God may be complete, fully equipped for every good work.”</i></p>
 
-<p><b>— Psalm 139:23 (BSB)</b></p>
+<p><b>— 2 Timothy 3:16-17 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/PSA.139.23">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/2TI.3.16-17">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
