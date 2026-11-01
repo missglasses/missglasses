@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ SATURDAY · OCTOBER 31, 2026 ✧</sub></p>
+<p><sub>✧ SUNDAY · NOVEMBER 01, 2026 ✧</sub></p>
 
-<p><i>“All Scripture is God-breathed and is useful for instruction, for conviction, for correction, and for training in righteousness, so that the man of God may be complete, fully equipped for every good work.”</i></p>
+<p><i>“In the beginning was the Word, and the Word was with God, and the Word was God.”</i></p>
 
-<p><b>— 2 Timothy 3:16-17 (BSB)</b></p>
+<p><b>— John 1:1 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/2TI.3.16-17">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/JHN.1.1">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
