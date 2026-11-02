@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ SUNDAY · NOVEMBER 01, 2026 ✧</sub></p>
+<p><sub>✧ MONDAY · NOVEMBER 02, 2026 ✧</sub></p>
 
-<p><i>“In the beginning was the Word, and the Word was with God, and the Word was God.”</i></p>
+<p><i>“For the word of God is living and active. Sharper than any double-edged sword, it pierces even to dividing soul and spirit, joints and marrow. It judges the thoughts and intentions of the heart.”</i></p>
 
-<p><b>— John 1:1 (BSB)</b></p>
+<p><b>— Hebrews 4:12 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/JHN.1.1">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/HEB.4.12">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
