@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ TUESDAY · NOVEMBER 03, 2026 ✧</sub></p>
+<p><sub>✧ WEDNESDAY · NOVEMBER 04, 2026 ✧</sub></p>
 
-<p><i>“I have hidden Your word in my heart that I might not sin against You.”</i></p>
+<p><i>“Therefore everyone who hears these words of Mine and acts on them is like a wise man who built his house on the rock.”</i></p>
 
-<p><b>— Psalm 119:11 (BSB)</b></p>
+<p><b>— Matthew 7:24 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/PSA.119.11">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/MAT.7.24">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
