@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ WEDNESDAY · NOVEMBER 04, 2026 ✧</sub></p>
+<p><sub>✧ THURSDAY · NOVEMBER 05, 2026 ✧</sub></p>
 
-<p><i>“Therefore everyone who hears these words of Mine and acts on them is like a wise man who built his house on the rock.”</i></p>
+<p><i>“Make every effort to present yourself approved to God, an unashamed workman who accurately handles the word of truth.”</i></p>
 
-<p><b>— Matthew 7:24 (BSB)</b></p>
+<p><b>— 2 Timothy 2:15 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/MAT.7.24">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/2TI.2.15">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
