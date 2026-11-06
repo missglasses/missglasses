@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ THURSDAY · NOVEMBER 05, 2026 ✧</sub></p>
+<p><sub>✧ FRIDAY · NOVEMBER 06, 2026 ✧</sub></p>
 
-<p><i>“Make every effort to present yourself approved to God, an unashamed workman who accurately handles the word of truth.”</i></p>
+<p><i>“Finally, brothers, whatever is true, whatever is honorable, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — if anything is excellent or praiseworthy — think on these things.”</i></p>
 
-<p><b>— 2 Timothy 2:15 (BSB)</b></p>
+<p><b>— Philippians 4:8 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/2TI.2.15">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/PHP.4.8">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
