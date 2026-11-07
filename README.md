@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ FRIDAY · NOVEMBER 06, 2026 ✧</sub></p>
+<p><sub>✧ SATURDAY · NOVEMBER 07, 2026 ✧</sub></p>
 
-<p><i>“Finally, brothers, whatever is true, whatever is honorable, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — if anything is excellent or praiseworthy — think on these things.”</i></p>
+<p><i>“For no word from God will ever fail.””</i></p>
 
-<p><b>— Philippians 4:8 (BSB)</b></p>
+<p><b>— Luke 1:37 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/PHP.4.8">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/LUK.1.37">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
