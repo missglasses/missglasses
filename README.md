@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ SATURDAY · NOVEMBER 07, 2026 ✧</sub></p>
+<p><sub>✧ SUNDAY · NOVEMBER 08, 2026 ✧</sub></p>
 
-<p><i>“For no word from God will ever fail.””</i></p>
+<p><i>“Declare His glory among the nations, His wonders among all peoples.”</i></p>
 
-<p><b>— Luke 1:37 (BSB)</b></p>
+<p><b>— 1 Chronicles 16:24 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/LUK.1.37">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/1CH.16.24">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
