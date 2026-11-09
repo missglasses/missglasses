@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ SUNDAY · NOVEMBER 08, 2026 ✧</sub></p>
+<p><sub>✧ MONDAY · NOVEMBER 09, 2026 ✧</sub></p>
 
-<p><i>“Declare His glory among the nations, His wonders among all peoples.”</i></p>
+<p><i>“Your word is a lamp to my feet and a light to my path.”</i></p>
 
-<p><b>— 1 Chronicles 16:24 (BSB)</b></p>
+<p><b>— Psalm 119:105 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/1CH.16.24">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/PSA.119.105">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
