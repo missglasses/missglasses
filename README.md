@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ MONDAY · NOVEMBER 09, 2026 ✧</sub></p>
+<p><sub>✧ TUESDAY · NOVEMBER 10, 2026 ✧</sub></p>
 
-<p><i>“Your word is a lamp to my feet and a light to my path.”</i></p>
+<p><i>“Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in ourtime of need.”</i></p>
 
-<p><b>— Psalm 119:105 (BSB)</b></p>
+<p><b>— Hebrews 4:16 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/PSA.119.105">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/HEB.4.16">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
