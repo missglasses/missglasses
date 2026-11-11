@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ TUESDAY · NOVEMBER 10, 2026 ✧</sub></p>
+<p><sub>✧ WEDNESDAY · NOVEMBER 11, 2026 ✧</sub></p>
 
-<p><i>“Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in ourtime of need.”</i></p>
+<p><i>“Give us this day our daily bread.”</i></p>
 
-<p><b>— Hebrews 4:16 (BSB)</b></p>
+<p><b>— Matthew 6:11 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/HEB.4.16">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/MAT.6.11">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
