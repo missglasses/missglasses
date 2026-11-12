@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ WEDNESDAY · NOVEMBER 11, 2026 ✧</sub></p>
+<p><sub>✧ THURSDAY · NOVEMBER 12, 2026 ✧</sub></p>
 
-<p><i>“Give us this day our daily bread.”</i></p>
+<p><i>“Anyone, then, who knows the right thing to do, yet fails to do it, is guilty of sin.”</i></p>
 
-<p><b>— Matthew 6:11 (BSB)</b></p>
+<p><b>— James 4:17 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/MAT.6.11">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/JAS.4.17">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
