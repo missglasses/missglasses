@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ THURSDAY · NOVEMBER 12, 2026 ✧</sub></p>
+<p><sub>✧ FRIDAY · NOVEMBER 13, 2026 ✧</sub></p>
 
-<p><i>“Anyone, then, who knows the right thing to do, yet fails to do it, is guilty of sin.”</i></p>
+<p><i>“even there Your hand will guide me; Your right hand will hold me fast.”</i></p>
 
-<p><b>— James 4:17 (BSB)</b></p>
+<p><b>— Psalm 139:10 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/JAS.4.17">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/PSA.139.10">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
