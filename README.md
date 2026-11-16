@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ SUNDAY · NOVEMBER 15, 2026 ✧</sub></p>
+<p><sub>✧ MONDAY · NOVEMBER 16, 2026 ✧</sub></p>
 
-<p><i>“Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled; do not be afraid.”</i></p>
+<p><i>“You are my hiding place and my shield; I put my hope in Your word.”</i></p>
 
-<p><b>— John 14:27 (BSB)</b></p>
+<p><b>— Psalm 119:114 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/JHN.14.27">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/PSA.119.114">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
