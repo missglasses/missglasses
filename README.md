@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ MONDAY · NOVEMBER 16, 2026 ✧</sub></p>
+<p><sub>✧ TUESDAY · NOVEMBER 17, 2026 ✧</sub></p>
 
-<p><i>“You are my hiding place and my shield; I put my hope in Your word.”</i></p>
+<p><i>“But Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’ ””</i></p>
 
-<p><b>— Psalm 119:114 (BSB)</b></p>
+<p><b>— Matthew 4:4 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/PSA.119.114">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/MAT.4.4">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
