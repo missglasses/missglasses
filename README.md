@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ TUESDAY · NOVEMBER 17, 2026 ✧</sub></p>
+<p><sub>✧ WEDNESDAY · NOVEMBER 18, 2026 ✧</sub></p>
 
-<p><i>“But Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’ ””</i></p>
+<p><i>“The grass withers and the flowers fall, but the word of our God stands forever.””</i></p>
 
-<p><b>— Matthew 4:4 (BSB)</b></p>
+<p><b>— Isaiah 40:8 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/MAT.4.4">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/ISA.40.8">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
