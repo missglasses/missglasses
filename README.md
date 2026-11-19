@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ WEDNESDAY · NOVEMBER 18, 2026 ✧</sub></p>
+<p><sub>✧ THURSDAY · NOVEMBER 19, 2026 ✧</sub></p>
 
-<p><i>“The grass withers and the flowers fall, but the word of our God stands forever.””</i></p>
+<p><i>“Rejoice at all times. Pray without ceasing. Give thanks in every circumstance, for this is God’s will for you in Christ Jesus.”</i></p>
 
-<p><b>— Isaiah 40:8 (BSB)</b></p>
+<p><b>— 1 Thessalonians 5:16-18 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/ISA.40.8">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/1TH.5.16-18">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
