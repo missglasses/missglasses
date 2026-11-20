@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ THURSDAY · NOVEMBER 19, 2026 ✧</sub></p>
+<p><sub>✧ FRIDAY · NOVEMBER 20, 2026 ✧</sub></p>
 
-<p><i>“Rejoice at all times. Pray without ceasing. Give thanks in every circumstance, for this is God’s will for you in Christ Jesus.”</i></p>
+<p><i>“Therefore, my beloved brothers, be steadfast and immovable. Always excel in the work of the Lord, because you know that your labor in the Lord is not in vain.”</i></p>
 
-<p><b>— 1 Thessalonians 5:16-18 (BSB)</b></p>
+<p><b>— 1 Corinthians 15:58 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/1TH.5.16-18">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/1CO.15.58">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
