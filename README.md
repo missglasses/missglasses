@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ FRIDAY · NOVEMBER 20, 2026 ✧</sub></p>
+<p><sub>✧ SATURDAY · NOVEMBER 21, 2026 ✧</sub></p>
 
-<p><i>“Therefore, my beloved brothers, be steadfast and immovable. Always excel in the work of the Lord, because you know that your labor in the Lord is not in vain.”</i></p>
+<p><i>“Greater love has no one than this, that he lay down his life for his friends.”</i></p>
 
-<p><b>— 1 Corinthians 15:58 (BSB)</b></p>
+<p><b>— John 15:13 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/1CO.15.58">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/JHN.15.13">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
