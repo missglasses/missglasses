@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ SATURDAY · NOVEMBER 21, 2026 ✧</sub></p>
+<p><sub>✧ SUNDAY · NOVEMBER 22, 2026 ✧</sub></p>
 
-<p><i>“Greater love has no one than this, that he lay down his life for his friends.”</i></p>
+<p><i>“For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this world’s darkness, and against the spiritual forces of evil in the heavenly realms.”</i></p>
 
-<p><b>— John 15:13 (BSB)</b></p>
+<p><b>— Ephesians 6:12 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/JHN.15.13">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/EPH.6.12">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
