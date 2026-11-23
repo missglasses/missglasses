@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ SUNDAY · NOVEMBER 22, 2026 ✧</sub></p>
+<p><sub>✧ MONDAY · NOVEMBER 23, 2026 ✧</sub></p>
 
-<p><i>“For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this world’s darkness, and against the spiritual forces of evil in the heavenly realms.”</i></p>
+<p><i>“For everything that was written in the past was written for our instruction, so that through endurance and the encouragement of the Scriptures, we might have hope.”</i></p>
 
-<p><b>— Ephesians 6:12 (BSB)</b></p>
+<p><b>— Romans 15:4 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/EPH.6.12">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/ROM.15.4">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
