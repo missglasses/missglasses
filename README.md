@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ MONDAY · NOVEMBER 23, 2026 ✧</sub></p>
+<p><sub>✧ TUESDAY · NOVEMBER 24, 2026 ✧</sub></p>
 
-<p><i>“For everything that was written in the past was written for our instruction, so that through endurance and the encouragement of the Scriptures, we might have hope.”</i></p>
+<p><i>“This Book of the Law must not depart from your mouth; meditate on it day and night, so that you may be careful to do everything written in it. For then you will prosper and succeed in all you do.”</i></p>
 
-<p><b>— Romans 15:4 (BSB)</b></p>
+<p><b>— Joshua 1:8 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/ROM.15.4">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/JOS.1.8">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
