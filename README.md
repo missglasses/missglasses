@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ TUESDAY · NOVEMBER 24, 2026 ✧</sub></p>
+<p><sub>✧ WEDNESDAY · NOVEMBER 25, 2026 ✧</sub></p>
 
-<p><i>“This Book of the Law must not depart from your mouth; meditate on it day and night, so that you may be careful to do everything written in it. For then you will prosper and succeed in all you do.”</i></p>
+<p><i>“But thanks be to God, who gives us the victory through our Lord Jesus Christ!”</i></p>
 
-<p><b>— Joshua 1:8 (BSB)</b></p>
+<p><b>— 1 Corinthians 15:57 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/JOS.1.8">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/1CO.15.57">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
