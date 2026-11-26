@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ WEDNESDAY · NOVEMBER 25, 2026 ✧</sub></p>
+<p><sub>✧ THURSDAY · NOVEMBER 26, 2026 ✧</sub></p>
 
-<p><i>“But thanks be to God, who gives us the victory through our Lord Jesus Christ!”</i></p>
+<p><i>“Enter His gates with thanksgiving and His courts with praise; give thanks to Him and bless His name.”</i></p>
 
-<p><b>— 1 Corinthians 15:57 (BSB)</b></p>
+<p><b>— Psalm 100:4 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/1CO.15.57">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/PSA.100.4">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
