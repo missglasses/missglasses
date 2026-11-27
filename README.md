@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ THURSDAY · NOVEMBER 26, 2026 ✧</sub></p>
+<p><sub>✧ FRIDAY · NOVEMBER 27, 2026 ✧</sub></p>
 
-<p><i>“Enter His gates with thanksgiving and His courts with praise; give thanks to Him and bless His name.”</i></p>
+<p><i>“You will keep in perfect peace the steadfast of mind, because he trusts in You.”</i></p>
 
-<p><b>— Psalm 100:4 (BSB)</b></p>
+<p><b>— Isaiah 26:3 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/PSA.100.4">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/ISA.26.3">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
