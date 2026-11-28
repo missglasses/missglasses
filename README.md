@@ -15,13 +15,13 @@
 <!-- DAILY-VERSE:START -->
 <h2>𓆩♡𓆪 𝓐 𝓦𝓸𝓻𝓭 𝓯𝓸𝓻 𝓣𝓸𝓭𝓪𝔂 𓆩♡𓆪</h2>
 
-<p><sub>✧ FRIDAY · NOVEMBER 27, 2026 ✧</sub></p>
+<p><sub>✧ SATURDAY · NOVEMBER 28, 2026 ✧</sub></p>
 
-<p><i>“You will keep in perfect peace the steadfast of mind, because he trusts in You.”</i></p>
+<p><i>“Beloved, if God so loved us, we also ought to love one another.”</i></p>
 
-<p><b>— Isaiah 26:3 (BSB)</b></p>
+<p><b>— 1 John 4:11 (BSB)</b></p>
 
-<p><a href="https://www.bible.com/bible/3034/ISA.26.3">♡ Read today's passage on Bible.com ♡</a></p>
+<p><a href="https://www.bible.com/bible/3034/1JN.4.11">♡ Read today's passage on Bible.com ♡</a></p>
 <!-- DAILY-VERSE:END -->
 
 </div>
